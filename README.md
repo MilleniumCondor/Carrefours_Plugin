@@ -1,4 +1,4 @@
-# Carrefours_Plugin
+# Carrefours_Plugin 1.0.102
 
 Module de gestion de Carrefours
 
