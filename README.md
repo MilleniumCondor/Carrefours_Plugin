@@ -1,6 +1,6 @@
 <!--1.0.214-->
 <!--https://github.com/MilleniumCondor/Carrefours_Plugin/raw/refs/heads/main/SetupCarrefours_1.0.214.msi-->
-# Carrefours_Plugin 1.0.102
+# Carrefours_Plugin 1.0.214
 
 Module de gestion de Carrefours
 
