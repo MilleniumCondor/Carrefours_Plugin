@@ -1,6 +1,7 @@
 <!--1.0.219-->
 <!--https://github.com/MilleniumCondor/Carrefours_Plugin/raw/refs/heads/main/SetupCarrefours_1.0.219.msi-->
-# Carrefours_Plugin 1.0.219
+# ARTELIA Carrefours Plugin 1.0.219
+(c) Artelia Digital Solutions + Service CAD + 1985-2026 (L.NOEL)
 
 Module de gestion de Carrefours
 
